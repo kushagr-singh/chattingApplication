@@ -48,21 +48,20 @@ java Client
 ```
 
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Hands-on experience with **network programming in Java.**
 - Understanding of **multithreading and concurrency.**
 - Building **scalable client–server systems.**
 
 
-📌 Future Enhancements
+## 📌 Future Enhancements
 
 - GUI support with **Java Swing/JavaFX.**
 - Private messaging between clients.
 - User authentication and chat history.
 
----
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests and suggestions are welcome.
