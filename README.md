@@ -3,7 +3,6 @@
 A **real-time multi-client chatting application** built with **Java, Socket Programming, and Multithreading**.  
 This project demonstrates **client–server communication**, **concurrency handling**, and **message broadcasting** in a scalable network environment.
 
----
 
 ## 🚀 Features
 - Real-time **text communication** between multiple clients.  
@@ -12,7 +11,6 @@ This project demonstrates **client–server communication**, **concurrency handl
 - Automatic **message broadcasting** to all active users.  
 - Lightweight and console-based for simplicity.  
 
----
 
 ## 🛠️ Tech Stack
 - **Java** (Core)  
@@ -20,7 +18,6 @@ This project demonstrates **client–server communication**, **concurrency handl
 - **Multithreading**  
 - **I/O Streams**
 
----
 
 ## 📂 Project Structure
 ```bash
@@ -36,7 +33,6 @@ chattingApplication/
 └── README.md               # Project documentation
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -51,7 +47,6 @@ javac Client.java
 java Client
 ```
 
----
 
 🎯 Learning Outcomes
 
@@ -59,7 +54,6 @@ java Client
 - Understanding of **multithreading and concurrency.**
 - Building **scalable client–server systems.**
 
----
 
 📌 Future Enhancements
 
