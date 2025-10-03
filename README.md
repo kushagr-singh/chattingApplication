@@ -26,10 +26,14 @@ chattingApplication/
 ├── build.xml               # Apache Ant build configuration
 ├── manifest.mf             # Manifest file for JAR packaging
 ├── nbproject/              # NetBeans project configuration directory
+│   └── build-impl.xml
+│   └── genfiles.properties
+│   └── project.properties         
 │   └── project.xml         # NetBeans project metadata
 ├── src/                    # Source code directory
 │   ├── Client.java         # Client-side logic for connecting and interacting with the server
 │   └── Server.java         # Server-side logic for managing client connections and message broadcasting
+│   └── icons/              # Images/Icons
 └── README.md               # Project documentation
 ```
 
